@@ -1,0 +1,19 @@
+{
+  "PRODUCT": "Sản phẩm",
+  "USER_MANAGEMENT": "Quản lý người dùng",
+  "SYSTEM_CONFIGURATION": "Cấu hình hệ thống",
+  "PERMISSION": "Phân quyền",
+  "TASK_MANAGEMENT": "Quản lý công việc",
+  "LOGIN": "Đăng nhập",
+  "LOG_OUT": "Đăng xuất",
+  "ACCOUNT_INFORMATION": "Thông tin tài khoản",
+  "SETTING": "Cài đặt",
+  "ADD_NEW": "Thêm mới",
+  "FULL_NAME": "Họ và tên",
+  "USER_NAME": "Tên đăng nhập",
+  "PHONE_NUMBER": "Số điện thoại",
+  "ROLES": "Vai trò",
+  "STATUS": "Trạng thái",
+  "PASSWORD": "Mật khẩu",
+  "ADD_NEW_USER_LABEL": "Thêm mới Người Dùng"
+}

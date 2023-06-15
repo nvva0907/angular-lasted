@@ -1,0 +1,19 @@
+{
+  "PRODUCT": "Product",
+  "USER_MANAGEMENT": "User Management",
+  "SYSTEM_CONFIGURATION": "System Configuration",
+  "PERMISSION": "Permission",
+  "TASK_MANAGEMENT": "Task Management",
+  "LOGIN": "Login",
+  "LOG_OUT": "Log out",
+  "ACCOUNT_INFORMATION": "Account Information",
+  "SETTING": "Setting",
+  "ADD_NEW": "Add New",
+  "FULL_NAME": "Fullname",
+  "USER_NAME": "Username",
+  "PHONE_NUMBER": "Phone Number",
+  "ROLES": "Roles",
+  "STATUS": "Status",
+  "PASSWORD": "Password",
+  "ADD_NEW_USER_LABEL": "Add New User"
+}
